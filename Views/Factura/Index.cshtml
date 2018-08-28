@@ -1,0 +1,170 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<div id="example">
+    <div class="demo-section k-content">
+        <h4>Cliente: </h4>
+        <input id="clientes" style="width: 50%;" />
+       
+        <label>
+            Fecha:
+            <input id="datepicker" value="01/01/2018" title="datepicker" style="width: 108%" />
+        </label>
+
+        <h4>Producto: </h4>
+        <input id="productos" style="width: 50%;" />
+
+        <label>
+            Cantidad:
+            <input id="numeric" type="number" title="numeric" value="0" min="0" max="100" step="1" style="width: 100%;" />
+        </label>
+        
+        <button type="button" id="kendoIconButton">Añadir Producto</button>
+        <label>
+            Total:             
+        </label>
+
+    </div>
+    <br/>
+        
+    <div id="grid"></div>
+
+        @section Scripts{
+
+            @Scripts.Render("https://kendo.cdn.telerik.com/2018.2.620/js/jquery.min.js")
+            @Scripts.Render("https://kendo.cdn.telerik.com/2018.2.620/js/kendo.all.min.js")
+            @Styles.Render("https://kendo.cdn.telerik.com/2018.2.620/styles/kendo.common-material.min.css")
+            @Styles.Render("https://kendo.cdn.telerik.com/2018.2.620/styles/kendo.material.min.css")
+            @Styles.Render("https://kendo.cdn.telerik.com/2018.2.620/styles/kendo.material.mobile.min.css")
+
+            <script>
+                $(document).ready(function (){
+                    $("#crearFac").click(function () {
+                        var idClienteSeleccionado = $("#clientes").val();
+                        var detalleFactura = gridFactura.data();   
+                        var url = "/Factura/CrearFactura";
+                        var listaAEnviar = [];
+                        var max = detalleFactura.length;
+                        for (var i = 0; i < max; i++) {
+                            var detalle1 = detalleFactura[i];
+                            listaAEnviar.push({ "idProducto": detalle1.idProducto, "cantidad": detalle1.cantidad });
+                        }
+
+                        var jsonEnviar = { "idCliente": idClienteSeleccionado, "detalleFactura": listaAEnviar };
+                        $.ajax(url, {
+                         //   data: (jsonEnviar),
+                            data: JSON.stringify(jsonEnviar),
+                            contentType: 'application/json',
+                            type: 'POST',
+                            success: function (resultado) {
+                                alert("este es el resultado de crear la factura> " + resultado);
+                            }
+                        });
+                    
+                        
+                    }); 
+
+                    var gridFactura = new kendo.data.DataSource({
+                        data: productosAEnviarParaFactura,
+                        aggregate: [{ field: "total", aggregate: "sum" }]
+                    })
+
+
+                    var Productos = new kendo.data.DataSource({
+                        transport: {
+                            read: "/Factura/ListarProductos"
+                        }
+                    });
+
+                    var productosAEnviarParaFactura = [];
+
+                    $("#kendoIconButton").click(function () {
+                        var idProductoSeleccionado = $("#productos").val();
+                        //[{},{},{},{},]
+                        var productosCombo = Productos.data();
+                        var productoEncontrado = encontrarProductoEnLista(idProductoSeleccionado, productosCombo);
+
+                        var cantidadIngresadaInput = $("#numeric").val();
+
+                        var totalPorProducto = parseInt(cantidadIngresadaInput) * productoEncontrado.precio;
+                        var ProductoNuevo = {
+                            "total": totalPorProducto,
+                            "nombre": productoEncontrado.nombre,
+                            "idProducto": idProductoSeleccionado,
+                            "cantidad": cantidadIngresadaInput
+                        }
+
+                        //productosAEnviarParaFactura.push(ProductoNuevo);
+                        gridFactura.add(ProductoNuevo);
+
+                    });
+                    function encontrarProductoEnLista(idProducto, listadoProductos) {
+                        var max = listadoProductos.length;
+                        for (var i = 0; i < max; i++) {
+                            var productoEncontrado = listadoProductos[i];
+                            //se parsea el idProducto a Entero, para que pueda realizarse correctamente la validacion
+                            var esEncontrado = (productoEncontrado.idProducto === parseInt(idProducto));
+                            if (esEncontrado) {
+                                return productoEncontrado;
+                            }
+                        }
+                    }
+
+
+                    $("#datepicker").kendoDatePicker();
+                    $("#numeric").kendoNumericTextBox();
+
+                    $("#kendoIconButton").kendoButton({
+                        icon: "cart"
+                    });
+
+                    $("#crearFac").kendoButton({
+                        icon: "save"
+                    });
+
+                    $("#clientes").kendoDropDownList({
+                        autoBind: false,
+                        optionLabel: "Seleccionar cliente...",
+                        dataTextField: "nombre",
+                        dataValueField: "idCliente",
+                        filter: "contains",
+                        dataSource: {
+                            transport: {
+                                read: "/Factura/ListarClientes"
+                            }
+
+                        }
+                    });
+                   
+                    $("#productos").kendoDropDownList({
+                        autoBind: false,
+                        optionLabel: "Seleccionar producto...",
+                        dataTextField: "nombre",
+                        dataValueField: "idProducto",
+                        filter: "contains",
+                        dataSource: Productos
+                    });
+
+                    $("#grid").kendoGrid({
+                        dataSource: gridFactura,
+                        height: 400,
+                        columns: [
+                          //  { field: "idFactura", title: "idFactura" },
+                            { field: "idProducto", title: "idProducto" },
+                            { field: "nombre", title: "Nombre de producto"},
+                            { field: "cantidad", title: "Cantidad" },
+                           // { field: "precio", title: "Precio" },
+                            
+                            { field: "total", title: "Total", footerTemplate: "Sum: #= sum # " }
+                        ]
+                    });
+                });
+
+            </script>
+        }
+        <br />
+        <button type="button" id="crearFac" style=" float: right" >Crear Factura</button>
+
+
+    </div>

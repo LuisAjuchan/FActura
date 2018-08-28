@@ -1,0 +1,267 @@
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\roslyn\csc.exe
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\roslyn\vbc.exe
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\roslyn\VBCSCompiler.exe
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Factura.dll.config
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Factura.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Factura.pdb
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Antlr3.Runtime.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\EntityFramework.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\EntityFramework.SqlServer.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Security.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Security.Google.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Newtonsoft.Json.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Owin.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\System.Web.Helpers.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\System.Web.Mvc.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\System.Web.Optimization.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\System.Web.Razor.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\System.Web.WebPages.Deployment.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\System.Web.WebPages.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\System.Web.WebPages.Razor.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\WebGrease.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\System.Web.Helpers.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\System.Web.Mvc.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\System.Web.Optimization.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\System.Web.Razor.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\System.Web.WebPages.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\System.Web.WebPages.Deployment.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\System.Web.WebPages.Razor.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Antlr3.Runtime.pdb
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Newtonsoft.Json.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\EntityFramework.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\EntityFramework.SqlServer.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Security.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Security.Google.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\System.Web.Helpers.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\System.Web.Mvc.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\System.Web.Optimization.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\System.Web.Razor.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\System.Web.WebPages.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\EntityFramework.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\Microsoft.Owin.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\obj\Debug\Factura.csprojResolveAssemblyReference.cache
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\obj\Debug\Factura.dll
+c:\users\kevin barrios\documents\visual studio 2015\Projects\Factura\Factura\obj\Debug\Factura.pdb
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\roslyn\csc.exe
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\roslyn\vbc.exe
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\roslyn\VBCSCompiler.exe
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Factura.dll.config
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Factura.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Factura.pdb
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Antlr3.Runtime.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\EntityFramework.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\EntityFramework.SqlServer.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Security.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Newtonsoft.Json.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Owin.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\System.Web.Helpers.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\System.Web.Mvc.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\System.Web.Optimization.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\System.Web.Razor.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\System.Web.WebPages.Deployment.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\System.Web.WebPages.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\System.Web.WebPages.Razor.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\WebGrease.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\System.Web.Helpers.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\System.Web.Mvc.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\System.Web.Optimization.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\System.Web.Razor.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\System.Web.WebPages.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\System.Web.WebPages.Deployment.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\System.Web.WebPages.Razor.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Antlr3.Runtime.pdb
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Newtonsoft.Json.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\EntityFramework.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\EntityFramework.SqlServer.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Security.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\System.Web.Helpers.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\System.Web.Mvc.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\System.Web.Optimization.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\System.Web.Razor.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\System.Web.WebPages.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\EntityFramework.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\Microsoft.Owin.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\obj\Debug\Factura.dll
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\obj\Debug\Factura.pdb
+C:\Users\desa0002\Downloads\Factura\Factura\Factura\obj\Debug\Factura.csprojResolveAssemblyReference.cache
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\roslyn\csc.exe
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\roslyn\vbc.exe
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Factura.dll.config
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Factura.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Factura.pdb
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Antlr3.Runtime.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\EntityFramework.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\EntityFramework.SqlServer.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Security.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Newtonsoft.Json.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Owin.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\System.Web.Helpers.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\System.Web.Mvc.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\System.Web.Optimization.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\System.Web.Razor.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\System.Web.WebPages.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\System.Web.WebPages.Razor.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\WebGrease.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\System.Web.Helpers.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\System.Web.Mvc.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\System.Web.Optimization.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\System.Web.Razor.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\System.Web.WebPages.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\System.Web.WebPages.Razor.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Antlr3.Runtime.pdb
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Newtonsoft.Json.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\EntityFramework.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\EntityFramework.SqlServer.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Security.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\System.Web.Razor.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\EntityFramework.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\obj\Debug\Factura.csprojAssemblyReference.cache
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\obj\Debug\Factura.csproj.CopyComplete
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\obj\Debug\Factura.dll
+C:\Users\Luis Ajuchán\Downloads\Factura\Factura\Factura\Factura\obj\Debug\Factura.pdb
